@@ -16,12 +16,15 @@ color:white;
 .textpocentrybl {
   text-align: center;
 }
+
 .dashed {
 border: 10px dashed black;   
 }
+
 .solid{
 border:10px solid black;   
 }
+
 .dotted {
 border: 10px dotted black;   
 }
